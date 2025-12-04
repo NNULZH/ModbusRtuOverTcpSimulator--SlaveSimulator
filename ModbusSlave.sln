@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusSlave", "ModbusSlave.csproj", "{26BCA79B-00A9-4832-966E-C6DA461F2FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\Core\Core.csproj", "{A2AD8966-551E-4AAC-9681-AFEF61A414F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows", "..\Windows\Windows.csproj", "{78065983-6BD1-4A5D-A5AB-CA8174E91765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26BCA79B-00A9-4832-966E-C6DA461F2FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BCA79B-00A9-4832-966E-C6DA461F2FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BCA79B-00A9-4832-966E-C6DA461F2FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BCA79B-00A9-4832-966E-C6DA461F2FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2AD8966-551E-4AAC-9681-AFEF61A414F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AD8966-551E-4AAC-9681-AFEF61A414F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AD8966-551E-4AAC-9681-AFEF61A414F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AD8966-551E-4AAC-9681-AFEF61A414F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78065983-6BD1-4A5D-A5AB-CA8174E91765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78065983-6BD1-4A5D-A5AB-CA8174E91765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78065983-6BD1-4A5D-A5AB-CA8174E91765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78065983-6BD1-4A5D-A5AB-CA8174E91765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8156D023-CDD4-4BA6-8B94-5940382EA624}
+	EndGlobalSection
+EndGlobal

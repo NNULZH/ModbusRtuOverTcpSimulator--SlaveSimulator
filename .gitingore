@@ -1,0 +1,24 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS folder
+.vs/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Backup
+*.tmp
+*.bak
+*.orig
