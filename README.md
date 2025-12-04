@@ -1,4 +1,4 @@
-# ModbusRtuOverTcpSimulator
+# ModbusRtuOverTcpSimulator(WPF)
 
 ---
 ModbusRtuOverTcpSimulator 是一个轻量级项目，通过 TCP 模拟 Modbus RTU 行为。  
